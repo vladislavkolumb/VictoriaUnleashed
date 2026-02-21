@@ -3,31 +3,31 @@
 #Marabitanas (12000/3000 POPS) #now part of Brazil
 2401 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 345
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 6209
 	}
@@ -79,25 +79,25 @@
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 690
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 12707
 	}
@@ -106,31 +106,31 @@
 #Cachoeira (8000/2000 POPS)
 2403 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4140
 	}
@@ -138,31 +138,31 @@
 #Tefe (4000/1000 POPS)
 2404 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -170,31 +170,31 @@
 #Borba (12000/3000 POPS)
 2405 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 345
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 6209
 	}
@@ -202,31 +202,31 @@
 #Tabatinga (4000/1000 POPS)
 2407 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -234,31 +234,31 @@
 #Oriximina (8000/2000 POPS)
 2408 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4140
 	}
@@ -266,31 +266,31 @@
 #Forte Sao Joaquim (4000/1000 POPS) #now Roraima state Brazil 
 2532 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -372,31 +372,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 345
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 6209
 	}
@@ -464,25 +464,25 @@
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4255
 	}
@@ -515,31 +515,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -571,31 +571,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4140
 	}
@@ -657,25 +657,25 @@
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2093
 	}
@@ -707,31 +707,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -763,31 +763,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4140
 	}
@@ -890,31 +890,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 10522
 	}
@@ -946,31 +946,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -1032,31 +1032,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -1223,31 +1223,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 23
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 34
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 2070
 	}
@@ -1279,31 +1279,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 229
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 4140
 	}
@@ -4090,31 +4090,31 @@
 #Tarauaca (16000/4000 POPS) #now part of Brazil - Acre State
 2549 = {
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 459
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 8337
 	}
@@ -4146,31 +4146,31 @@
 	}
 
 	aristocrats = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	clergymen = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	artisans = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 345
 	}
 
 	soldiers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = amazonian
+		culture = brazilian
 		religion = animist
 		size = 6209
 	}
