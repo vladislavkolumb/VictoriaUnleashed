@@ -1,0 +1,19 @@
+game = v2
+paths = { 
+	ahd = { 
+		main = "C:\Program Files (x86)\Steam\steamapps\common\Victoria 2\mod"
+		lastmod = "The Heirs to Aquitània"
+	}
+
+	eu4 = { 
+		main = "C:\Users\Timo\Documents\Paradox Interactive\Crusader Kings II\eu4_export\mod\Converted_Crimea1453_01_02"
+		lastmod = ""
+	}
+
+	v2 = { 
+		main = "D:\Games\Vica 2\Victoria II"
+		recent = ""
+		lastmod = "Unleashed"
+	}
+
+}

@@ -1,0 +1,588 @@
+#Cundinamarca Region (584000)
+#Ruled by Colombia 1836
+#Bogota (240000/60000 POPS)
+2247 = {
+	bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 1700
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    officers = {
+        culture = north_andean
+        religion = orthodox
+        size = 3000
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 2100
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 11000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 6000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 120000
+    }
+}
+#Ibaque (88000/22000 POPS)
+2248 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Tunja (56000/14000 POPS)
+2249 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Manizales (116000/29000 POPS)
+2250 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Cucuta (84000/21000 POPS)
+2251 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Antioquia Region (452000)
+#Ruled by Colombia 1836
+#Medellin (128000/32000 POPS)
+2252 = {
+	bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 850
+    }
+	
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 800
+    }
+
+    officers = {
+		culture = north_andean
+		religion = catholic
+		size = 1000
+	}
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 990
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Quibdo (48000/12000 POPS)
+2253 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Cartagena de Indias (144000/36000 POPS)
+2254 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Barranquilla (132000/33000 POPS)
+2255 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Cauca Region (300000)
+#Ruled by Colombia 1836
+#Cali (92000/23000 POPS)
+2256 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 970
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Popayan (68000/17000 POPS)
+2257 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Buenaventura (60000/15000 POPS)
+2258 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Pasto (80000/20000 POPS)
+2259 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 750
+    }
+	
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 910
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 10000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 80000
+    }
+}
+#Rio Negro Region (128000) #see Brazil.txt for balance of region
+#Ruled by Colombia 1836
+#San Jose del Guaviare (36000/9000 POPS)
+2260 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+}
+#Obando (20000/5000 POPS)
+2261 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+}
+#Casanare (60000/15000 POPS)
+2262 = {
+	bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+	
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 1000
+	}
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+}
+#El Encanto (12000/3000 POPS)
+2263 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+
+}

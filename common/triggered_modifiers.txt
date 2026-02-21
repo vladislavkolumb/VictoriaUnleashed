@@ -1,0 +1,38 @@
+# Triggered modifiers are here.
+# these are checked for each countries once/month and then applied.
+#
+# Effects are fully scriptable here.
+#--------- ФИКСЫ ДЛЯ ИИшек ---------#
+
+help_ai_tax = {
+	trigger = {
+		ai = yes
+	}
+	icon = 9
+	min_tax = 0.99
+}
+
+help_ai_tariffs = {
+	trigger = {
+		ai = yes
+	}
+	icon = 9
+	min_tariff = 1
+}
+help_ai_money = {
+	trigger = {
+		ai = yes
+	}
+	icon = 9
+	tax_efficiency = 0.04
+}
+disable_loans = {
+	trigger = {
+		OR = {
+			ai = yes
+			has_country_flag = jan_mayen
+		}
+	}
+	max_loan_modifier = -1.0
+	icon = 9
+}

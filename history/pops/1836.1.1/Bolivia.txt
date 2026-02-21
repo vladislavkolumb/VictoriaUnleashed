@@ -1,0 +1,440 @@
+#La Paz Region (784000)
+#Ruled by Bolivia 1836
+#La Paz (392000/98000 POPS)
+2310 = {
+	bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    officers = {
+        culture = north_andean
+        religion = orthodox
+        size = 500
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 1450
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 15000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 4000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 110000
+    }
+}
+#Cochabamba (352000/88000 POPS)
+2311 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Oruro (40000/10000 POPS)
+2312 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Chuquisaca Region (288000)
+#Ruled by Bolivia 1836
+#Chuquisaca (116000/29000 POPS)
+2313 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 350
+	}
+
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 500
+	}
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Potosi (120000/30000 POPS)
+2314 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Tarija (52000/13000 POPS)
+2315 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Santa Cruz Region (48000)
+#Ruled by Bolivia 1836
+#Santa Cruz (16000/4000 POPS)
+2316 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 350
+	}
+
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 500
+	}
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#San Ignacio (20000/5000 POPS)
+2317 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Robore (12000/3000 POPS)
+2318 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Beni Region (116000) #see Brazil.txt for balance of region
+#Ruled by Bolivia 1836
+#Santa Ana (76000/19000 POPS)
+2319 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 350
+	}
+
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 500
+	}
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Riberalta (12000/3000 POPS)
+2320 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}
+#Cobija (28000/7000 POPS)
+2321 = {
+	aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 2650
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 26000
+    }
+}

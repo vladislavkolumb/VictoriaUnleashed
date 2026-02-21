@@ -1,0 +1,249 @@
+#Quito Region (512000)
+#Ruled by Ecuador 1836
+#Quito (304000/76000 POPS)
+2279 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	officers = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 15000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 5500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 100000
+	}
+	
+}
+#Zamora (176000/44000 POPS)
+2283 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 50000
+	}
+	
+}
+#Tena (32000/8000 POPS)
+2284 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 50000
+	}
+	
+}
+#Guayaquil Region (328000)
+#Ruled by Ecuador 1836
+#Guayaquil (80000/20000 POPS)
+2280 = {
+	aristocrats = {
+    culture = north_andean
+    religion = catholic
+    size = 600
+  }
+
+  clergymen = {
+    culture = north_andean
+    religion = catholic
+    size = 600
+  }
+
+  artisans = {
+    culture = north_andean
+    religion = catholic
+    size = 5000
+  }
+
+  soldiers = {
+    culture = north_andean
+    religion = catholic
+    size = 1500
+  }
+
+  farmers = {
+    culture = north_andean
+    religion = catholic
+    size = 50000
+  }
+	
+}
+#Esmereldas (88000/22000 POPS)
+2281 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 50000
+	}
+	
+}
+#Loja (160000/40000 POPS)
+2282 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 50000
+	}
+
+}	
+#Galapagos Region (300)
+#Ruled by Ecuador 1836
+#Galapagos (300/75 POPS)
+2285 = {
+	aristocrats = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_andean
+		religion = catholic
+		size = 600
+	}
+
+	artisans = {
+		culture = north_andean
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_andean
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_andean
+		religion = catholic
+		size = 50000
+	}
+
+}

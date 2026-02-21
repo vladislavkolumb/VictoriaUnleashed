@@ -1,0 +1,715 @@
+#Iquitos
+2286 = {
+    bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Yurimagues
+2287 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+
+}
+
+#Yuncos
+2288 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+
+}
+
+#Puca Urco
+2289 = {
+    bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 350
+    }
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 600
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 5000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1500
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 50000
+    }
+
+}
+
+#Cajamarca
+2290 = {
+    bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Piura
+2291 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Trujillo
+2292 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Moyobamba
+2294 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Huanuco
+2293 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Huancavelica
+2296 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Ayacucho
+2299 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Lima
+2295 = {
+    bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    officers = {
+        culture = north_andean
+        religion = orthodox
+        size = 9500
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 1200
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 11000
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 7000
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 100000
+    }
+
+}
+
+#Ica
+2297 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Huaraz
+2298 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Pucallpa
+2300 = {
+    bureaucrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Puerto Maldonado
+2301 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Cusco
+2302 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Puno
+2303 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Arequipa
+2304 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
+#Tacna
+2578 = {
+    aristocrats = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    clergymen = {
+        culture = north_andean
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = north_andean
+        religion = orthodox
+        size = 4100
+    }
+
+    soldiers = {
+        culture = north_andean
+        religion = orthodox
+        size = 1350
+    }
+
+    farmers = {
+        culture = north_andean
+        religion = orthodox
+        size = 44000
+    }
+
+}
+
