@@ -3,48 +3,48 @@
 #San Salvador (260000/65000 POPS)
 2191 = {
 	bureaucrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 350
     }
     aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
 	officers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
     aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }
@@ -52,31 +52,31 @@
 #San Miguel (156000/44000 POPS)
 2192 = {
 	aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }
