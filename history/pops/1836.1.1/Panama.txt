@@ -3,31 +3,31 @@
 #Balboa (12000/3000 POPS)
 1723 = {
     aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1550
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 11000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 7200
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 120000
     }
@@ -36,43 +36,43 @@
 #Panama City (52000/13000 POPS)
 2204 = {
     bureaucrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1200
     }
 	
 	aristocrats = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 	
 	officers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
 	clergymen = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 50000
 	}
@@ -80,31 +80,31 @@
 #David (28000/7000 POPS)
 2205 = {
 	aristocrats = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 50000
 	}
@@ -112,31 +112,31 @@
 #Penonome (24000/6000 POPS)
 2206 = {
 	aristocrats = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 50000
 	}
@@ -144,31 +144,31 @@
 #Yaviza (12000/3000 POPS)
 2208 = {
 	aristocrats = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
 	artisans = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 5000
 	}
 
 	soldiers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 50000
 	}
