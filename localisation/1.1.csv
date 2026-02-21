@@ -70,6 +70,15 @@ industry_2;Конвейерное производство;X
 industry_3;Гидрометаллургия;X
 industry_4;Скоростные поезда;X
 industry_5;Химическая индустрия;X
+EIC;Британская Ост-Индская компания;X;X;X;X;X;X
+EIC_ADJ;Ост-Индск.;X;X;X;X;X;X
+EIC_conservative;Партия национального конгресса;X;X;X;X;X;X
+EIC_liberal;Партия независимости;X;X;X;X;X;X
+EIC_reactionary;Национальный фронт;X;X;X;X;X;X
+EIC_anarcho_liberal;Партия свободы;X;X;X;X;X;X
+EIC_socialist;Индийский национальный конгресс;X;X;X;X;X;X
+EIC_communist;Коммунистическая партия;X;X;X;X;X;X
+EIC_fascist;Партия единства;X;X;X;X;X;X
 PROV3041;Аргентинское поднятие;X
 TUR_819;Западная Македония;X
 TUR_806;Северная Македония;X
