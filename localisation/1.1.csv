@@ -46,26 +46,33 @@ WARGOAL_OTHER_ACCEPT_SETUP;Одна держава расширяет свою войну против другой;X
 WARGOAL_THEY_ACCEPT_SETUP;Мы расширяем свою войну против другой державы;X
 WARGOAL_WE_ACCEPT_SETUP;Другая держава расширяет свою войну против нас;X
 status_quo_setup;Мы требуем лишь оставить нас в покое.;X
+army_1;Генеральный штаб нового века;X
+army_2;Оружие современного стандарта;X
+army_3;Самоходная артиллерия;X
+army_4;Штабное командование;X
+army_5;Шок и трепет;X
+navy_1;Верфь нового поколения;X
+navy_2;Авианосные группы;X
+navy_3;Ракетное вооружение;X
+navy_4;Командование из центра;X
+navy_5;Новая дисциплина;X
+commerce_1;Глобальные торговые сети;X
+commerce_2;Финансовый капитализм;X
+commerce_3;Великая депрессия;X
+commerce_5;Монополия рынка;X
+culture_1;Культурный экспансионизм;X
+culture_2;Модернизм;X
+culture_3;Массовое образование;X
+culture_4;Идеология современности;X
+culture_5;Когнитивная психология;X
+industry_1;Электризация предприятий;X
+industry_2;Конвейерное производство;X
+industry_3;Гидрометаллургия;X
+industry_4;Скоростные поезда;X
+industry_5;Химическая индустрия;X
 PROV3041;Аргентинское поднятие;X
 TUR_819;Западная Македония;X
 TUR_806;Северная Македония;X
 GUNBOAT_OTHER_ACCEPT_LOG;Держава $ACTOR$ силой заставила державу $RECIPIENT$ выплачивать свой долг.;X
 GUNBOAT_THEY_ACCEPT_LOG;Мы силой заставили державу $RECIPIENT$ выплачивать нам долг.;X
 GUNBOAT_WE_ACCEPT_LOG;Мы приняли требование о выплате долга со стороны державы $ACTOR$.;X
-HND_conservative;Партия национального конгресса;X;X;X;X;X;X
-HND_liberal;Партия независимости;X;X;X;X;X;X
-HND_reactionary;Национальный фронт;X;X;X;X;X;X
-HND_anarcho_liberal;Партия свободы;X;X;X;X;X;X
-HND_socialist;Индийский национальный конгресс;X;X;X;X;X;X
-HND_communist;Коммунистическая партия;X;X;X;X;X;X
-HND_fascist;Партия единства;X;X;X;X;X;X
-HND;Индия;X;X;X;X;X;X
-EIC;Британская Ост-Индская компания;X;X;X;X;X;X
-EIC_ADJ;Ост-Индск.;X;X;X;X;X;X
-EIC_conservative;Партия национального конгресса;X;X;X;X;X;X
-EIC_liberal;Партия независимости;X;X;X;X;X;X
-EIC_reactionary;Национальный фронт;X;X;X;X;X;X
-EIC_anarcho_liberal;Партия свободы;X;X;X;X;X;X
-EIC_socialist;Индийский национальный конгресс;X;X;X;X;X;X
-EIC_communist;Коммунистическая партия;X;X;X;X;X;X
-EIC_fascist;Партия единства;X;X;X;X;X;X

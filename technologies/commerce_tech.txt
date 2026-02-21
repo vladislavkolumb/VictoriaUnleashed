@@ -786,33 +786,6 @@ economic_responsibility = {
 	}	
 	
 }
-commerce_4 = {
-	area = market_functionality
-	year = 1910
-	cost = 21600
-
-	influence = 0.2
-	ai_chance = {
-		factor = 1.01
-		modifier = {
-			factor = 1.2
-			is_greater_power = yes
-		}
-		modifier = {
-			factor = 1.2
-			industrial_score = 1000
-		}
-		modifier = {
-			factor = 1.2
-			industrial_score = 1500
-		}
-		modifier = {
-			factor = 1.02
-			tech_school = commerce_tech_school
-		}
-	}	
-	
-}
 
 
 
