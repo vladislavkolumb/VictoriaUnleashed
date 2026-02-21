@@ -3,48 +3,48 @@
 #Managua (192000/48000 POPS)
 2197 = {
 	bureaucrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 350
     }
     aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
 	officers = {
-		culture = north_andean
+		culture = central_american
 		religion = catholic
 		size = 600
 	}
 
     aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }
@@ -52,31 +52,31 @@
 #Rivas (40000/10000 POPS)
 2198 = {
 	aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }
@@ -84,31 +84,31 @@
 #Esteli (48000/12000 POPS)
 2199 = {
 	aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }
@@ -116,31 +116,31 @@
 #Bluefields (12000/3000 POPS)
 2200 = {
 	aristocrats = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     clergymen = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 600
     }
 
     artisans = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 5000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 1500
     }
 
     farmers = {
-        culture = north_andean
+        culture = central_american
         religion = orthodox
         size = 50000
     }

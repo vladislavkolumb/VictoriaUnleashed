@@ -839,25 +839,25 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 10695
 	}
@@ -976,31 +976,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 10522
 	}
@@ -1090,31 +1090,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 345
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 57
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 6209
 	}
@@ -3534,31 +3534,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 10522
 	}
@@ -3944,25 +3944,25 @@
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 10695
 	}
@@ -4056,31 +4056,31 @@
 	}
 
 	aristocrats = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 172
 	}
 
 	clergymen = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	artisans = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 575
 	}
 
 	soldiers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 114
 	}
 
 	farmers = {
-		culture = guarani
+		culture = brazilian
 		religion = animist
 		size = 10522
 	}

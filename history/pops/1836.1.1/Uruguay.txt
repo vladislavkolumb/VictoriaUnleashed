@@ -3,43 +3,43 @@
 #Montevideo (112000/28000 POPS)
 2344 = {
 	bureaucrats = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 1700
     }
 
     aristocrats = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 550
     }
 
     officers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 3000
     }
 
     clergymen = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 1550
     }
 
     artisans = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 11000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 6000
     }
 
     farmers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 120000
     }
@@ -47,31 +47,31 @@
 #Paysandu (36000/9000 POPS)
 2345 = {
 	aristocrats = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 1400
     }
 
     artisans = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 11000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 100000
     }
@@ -79,31 +79,31 @@
 #Tacumba (12000/3000 POPS)
 2346 = {
 	aristocrats = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 1400
     }
 
     artisans = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 11000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 100000
     }
@@ -111,31 +111,31 @@
 #Melo (40000/10000 POPS)
 2347 = {
 	aristocrats = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 550
     }
 
     clergymen = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 1400
     }
 
     artisans = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 11000
     }
 
     soldiers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 5000
     }
 
     farmers = {
-        culture = north_andean
+        culture = platinean
         religion = orthodox
         size = 100000
     }
