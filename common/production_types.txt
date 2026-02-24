@@ -130,13 +130,13 @@ cement_template = {
 aeroplane_factory = {       
 	template = machine_part_user_template
 	input_goods = {
-		machine_parts = 1.11	#38.69
-		electric_gear = 2	#32
-		rubber = 1  		#7
-		lumber = 3.3 		#3.3	total input+maint = 90
+		machine_parts = 0.2	#7,3
+		electric_gear = 0.7	#11
+		rubber = 0.5 		#3,5
+		lumber = 3.3 		#3.3	total input+maint = 24,8
 	}
 	output_goods = aeroplanes
-	value = 0.91			#100
+	value = 0.41			#40
 	bonus = {
 		trigger = { has_building = machine_parts_factory }
 		value = 0.25
@@ -150,13 +150,13 @@ aeroplane_factory = {
 barrel_factory = {       
 	template = machine_part_user_template
 	input_goods = {   
-		automobiles = 0.3	#21
-		machine_parts = 0.85	#29.2
-		electric_gear = 1	#16
-		rubber = 1		#7
+		automobiles = 0.15	#10,5
+		machine_parts = 0.20	#7,3
+		electric_gear = 0.3	#4,8
+		rubber = 0.5	#3,5				total input+main=26
 	}
 	output_goods = barrels 
-	value = 1.0			#98	total input+maint = 83
+	value = 0.5			#98	total input+maint = 83
 	bonus = {
 		trigger = { has_building = automobile_factory }
 		value = 0.1
@@ -174,14 +174,14 @@ barrel_factory = {
 automobile_factory = {       
 	template = machine_part_user_template
 	input_goods = {     
-		machine_parts = 1.05	#36.5
-		electric_gear = 1.5	#24
-		rubber = 1		#7
-		steel = 2.25		#10.58	total input+maint = 89
+		machine_parts = 0.3	#11
+		electric_gear = 0.25	#4
+		rubber = 0.5		#3.5
+		steel = 1	#4	total input+maint = 22
 	}
 	
 	output_goods = automobiles 
-	value = 1.43			#100
+	value = 0.7			#49
 	bonus = {
 		trigger = { has_building = machine_parts_factory }
 		value = 0.1
@@ -199,8 +199,8 @@ automobile_factory = {
 radio_factory = {       
 	template = factory_template
 	input_goods = {      
-		glass = 10 		#29
-		electric_gear = 3	#48  	total input+maint = 87
+		glass = 3 		# 8.7
+		electric_gear = 1	#16  	total input+maint = 87
 	}
 	output_goods = radio 
 	value = 6.5			#104
@@ -217,11 +217,11 @@ radio_factory = {
 telephone_factory = {       
 	template = factory_template
 	input_goods = {       
-		glass = 15 		#43.5
-		electric_gear = 2.5	#40 	total input+maint = 93.5
+		glass = 5 		#14.5
+		electric_gear = 0.7	#9.6 	total input+maint = 24
 	}
 	output_goods = telephones 
-	value = 6.5			#104
+	value = 3			#48
 		bonus = {
 		trigger = { has_building = electric_gear_factory }
 		value = 0.15
@@ -237,12 +237,12 @@ telephone_factory = {
 electric_gear_factory = {       
 	template = factory_template
 	input_goods = { 
-		rubber = 4		#28
-		coal = 5		#11.5
-		iron = 5		#17.5	total input+maint = 67
+		rubber = 0.8		# 12.8
+		coal = 3		#6.9
+		iron = 2.5		#2.5	total input+maint = 22
 	}
 	output_goods = electric_gear 
-	value = 5			#80
+	value = 3			#48
 	bonus = {
 		trigger = { trade_goods_in_state = rubber }
 		value = 0.15
@@ -260,7 +260,7 @@ electric_gear_factory = {
 machine_parts_factory = {       
 	template = factory_template
 	input_goods = {    
-		steel = 9		#42.3
+		steel = 3		#42.3
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
