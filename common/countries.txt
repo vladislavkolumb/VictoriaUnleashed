@@ -1,7 +1,16 @@
 #Please keep tags sorted alphabetically when you add/remove country tags
 
-# Special countries...
+# china minors
 REB 	= 	"countries/rebels.txt"
+GNG		="countries/Guangdong.txt"
+HNN		="countries/Hunan.txt"
+ANU		="countries/Anhui.txt"
+KMT		="countries/Nationalist China.txt"
+SZC		="countries/Sichuan.txt"
+FJN		="countries/Fujian.txt"
+GMJ		="countries/Guominjun.txt"
+ZHI		="countries/Zhili.txt"
+TAI		="countries/Taiwan.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

@@ -1,4 +1,4 @@
-capital = 1502
+capital = 1519
 primary_culture = zhuang
 culture = yue
 culture = nanfaren

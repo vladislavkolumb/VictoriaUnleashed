@@ -1,5 +1,5 @@
-owner = CHI
-controller = CHI
-add_core = CHI
+owner = ANU
+controller = ANU
+add_core = ANU
 trade_goods = iron
 life_rating = 32

@@ -1,5 +1,6 @@
-owner = GXI
-controller = GXI
+owner = GNG
+controller = GNG
+add_core = GNG
 add_core = GXI
 trade_goods = silk
 life_rating = 32

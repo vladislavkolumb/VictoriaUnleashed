@@ -1,5 +1,5 @@
-owner = GXI
-controller = GXI
+owner = TAI
+controller = TAI
 add_core = GXI
 trade_goods = silk
 life_rating = 32

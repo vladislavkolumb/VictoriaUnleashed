@@ -1,6 +1,5 @@
-owner = GXI
-controller = GXI
-add_core = CHI
+owner = TAI
+controller = TAI
 add_core = GXI
 trade_goods = tea
 life_rating = 32
