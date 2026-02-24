@@ -152,9 +152,9 @@ machine_parts_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		steel = 400
-		cement = 400
-		lumber = 400
+		steel = 450
+		cement = 450
+		lumber = 500
 	}
 	time = 180
 	visibility = yes
@@ -311,9 +311,9 @@ steel_factory = {
 	max_level = 99
 	goods_cost =
 	{
-		machine_parts = 150
+		machine_parts = 120
 		iron = 400
-		cement = 300
+		cement = 250
 		lumber = 400
 	}
 	time = 180
@@ -606,8 +606,8 @@ cement_factory = {
 	{
 		machine_parts = 120
 		steel = 200
-		cement = 200
-		lumber = 400
+		lumber = 500
+		coal = 200
 	}
 	time = 180
 	visibility = yes
