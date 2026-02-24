@@ -2,12 +2,12 @@
 
 military_goods = {
 	ammunition = { 
-		cost = 17.50
+		cost = 20
 		color = { 208 202 127 } 
 		available_from_start = no
 	}
 	small_arms = { 
-		cost = 37.00 
+		cost = 35.00 
 		color = { 189 118 22 }
 		available_from_start = no
 	}
@@ -17,16 +17,16 @@ military_goods = {
 		available_from_start = no
 	}
 	canned_food = { 
-		cost = 16.00 
+		cost = 15.00 
 		color = { 255 39 12 }
 	}
 	barrels = {	
-		cost = 98.00 
+		cost = 100
 		color = { 55 41 9 }
 		available_from_start = no 
 	}
 	aeroplanes = { 
-		cost = 110.00 
+		cost = 100 
 		color = { 221 213 182 }
 		available_from_start = no
 	}
@@ -42,7 +42,7 @@ raw_material_goods = {
 		color = { 69 0 182 }
 	}
 	wool = { 
-		cost = 0.7
+		cost = 1
 		color = { 234 195 158 }
 	}
 	silk = { 
@@ -50,7 +50,7 @@ raw_material_goods = {
 		color = { 125 158 43 }
 	}
 	coal = { 
-		cost = 2.3
+		cost = 2
 		color = { 11 29 77 }
 	}
 	sulphur = { 
@@ -62,11 +62,11 @@ raw_material_goods = {
 		color = { 111 111 111 }
 	}
 	timber = { 
-		cost = 0.9
+		cost = 1
 		color = { 146 72 17 }
 	}
 	tropical_wood = { 
-		cost = 5.4
+		cost = 6
 		color = { 213 177 118 }
 	}
 	rubber = { 
@@ -87,21 +87,21 @@ raw_material_goods = {
 
 industrial_goods = {
 	steel = { 
-		cost = 4.7
+		cost = 5
 		color = { 95 128 147 }
 		available_from_start = no
 	}
 	cement = { 
-		cost = 16.0
+		cost = 15.0
 		color = { 185 187 164 }
 	}
 	machine_parts = { 
-		cost = 36.5
+		cost = 35
 		color = { 177 198 196 }
 		available_from_start = no
 	}
 	glass = { 
-		cost = 2.9
+		cost = 3
 		color = { 201 200 199 }
 	}
 	fuel = { 
@@ -119,7 +119,7 @@ industrial_goods = {
 		available_from_start = no
 	}
 	clipper_convoy = { 
-		cost = 42.00 
+		cost = 40.00 
 		overseas_penalty = yes
 		available_from_start = no
 		color = { 21 65 30 }
@@ -131,12 +131,12 @@ industrial_goods = {
 		color = { 76 18 0 }
 	}
 	electric_gear = { 
-		cost = 16.00 
+		cost = 15.00 
 		available_from_start = no
 		color = { 255 255 0 }
 	}
 	fabric = { 
-		cost = 1.8
+		cost = 2
 		color = { 186 50 40 }
 	}
 	lumber = { 
@@ -147,7 +147,7 @@ industrial_goods = {
 
 consumer_goods = {
 	paper = { 
-		cost = 3.4
+		cost = 4
 		color = { 216 185 77 }
 	}
 	cattle = { 
@@ -159,27 +159,27 @@ consumer_goods = {
 		color = { 128 98 73 }
 	}
 	fruit = {
-		cost = 1.8
+		cost = 2
 		color = { 255 0 0 }
 	}
 	grain = { 
-		cost = 2.2
+		cost = 2
 		color = { 219 157 36 }
 	}
 	tobacco = {	
-		cost = 4.1
+		cost = 4
 		color = { 100 69 30 }
 	}
 	tea = {	
-		cost = 2.6
+		cost = 3
 		color = { 201 135 15 }
 	}
 	coffee = { 
-		cost = 3.1
+		cost = 3
 		color = { 27 19 7 }
 	}
 	opium = { 
-		cost = 25.2
+		cost = 25
 		color = { 114 162 47 }
 	}
 	automobiles = {	
@@ -188,20 +188,20 @@ consumer_goods = {
 		color = { 61 67 64 }
 	}
 	telephones = { 
-		cost = 16.00
+		cost = 15.00
 		available_from_start = no
 		color = { 123 112 54 }
 	}
 	wine = { 
-		cost = 9.7
+		cost = 10
 		color = { 123 0 54 }
 	}
 	liquor = { 
-		cost = 6.4
+		cost = 6.5
 		color = { 76 5 0 }
 	}
 	regular_clothes = { 
-		cost = 5.8
+		cost = 6
 		color = { 217 17 19 }
 	}
 	luxury_clothes = { 
@@ -209,15 +209,15 @@ consumer_goods = {
 		color = { 234 227 40 }
 	}
 	furniture = { 
-		cost = 4.9
+		cost = 5
 		color = { 173 129 40 }
 	}
 	luxury_furniture = { 
-		cost = 59.00
+		cost = 60.00
 		color = { 255 140 184 }
 	}
 	radio = { 
-		cost = 16.00 
+		cost = 15.00 
 		available_from_start = no
 		color = { 129 63 6 }
 	}
