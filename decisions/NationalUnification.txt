@@ -450,12 +450,12 @@ political_decisions = {
 		
 		effect = {
 			410 = {
-				change_province_name = "Кольмар"
+				change_province_name = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 			}
 			409 = {
-				change_province_name = "Штрассбург"
+				change_province_name = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 				state_scope = {
-					change_region_name = "Эльзас-Лотаринген"
+					change_region_name = "пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 				}
 			}
 			prestige = 5
@@ -478,12 +478,12 @@ political_decisions = {
 		
 		effect = {
 			410 = {
-				change_province_name = "Кольмар"
+				change_province_name = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 			}
 			409 = {
-				change_province_name = "Страсбур"
+				change_province_name = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 				state_scope = {
-					change_region_name = "Эльзас-Лотарингия"
+					change_region_name = "пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 				}
 			}
 			prestige = 10
@@ -740,5 +740,32 @@ unite_moldavia_wallachia = {
 			factor = 1
 		}
 	}
+	south_german_diplomacy = {
+
+    potential = {
+        tag = BAV
+    }
+
+    allow = {
+        relation = { who = BAD value = 200 }
+        relation = { who = WUR value = 200 }
+    }
+
+    effect = {
+
+        BAD = {
+            country_event = { id = 900010 days = 0 }
+        }
+
+        WUR = {
+            country_event = { id = 900011 days = 0 }
+        }
+
+    }
+
+    ai_will_do = {
+        factor = 1
+    }
+}
 
 }

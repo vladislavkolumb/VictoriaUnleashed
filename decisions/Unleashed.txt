@@ -1,0 +1,18 @@
+exchange_settings_dec = {
+		picture = give_money
+		alert = no
+		potential = {
+			
+			NOT = { has_country_flag = hide_all_decs_flag }
+			ai = no
+		}
+		allow = {
+			ai = no
+			NOT = {
+				has_country_modifier = grant_request_cooldown_modifier
+			}
+		}
+		effect = {
+			country_event = 57052
+		}
+	}

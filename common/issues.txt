@@ -1,4 +1,4 @@
- ##########################################
+##########################################
 # Issues that parties have.
 ##########################################
 party_issues = {
@@ -518,24 +518,20 @@ social_reforms = {
 		no_health_care = {
 		}
 		trinket_health_care = {
-			global_population_growth = 0.002
 			administrative_multiplier = 1
-			global_immigrant_attract = 0.01
-		}
-		low_health_care = {
-			global_population_growth = 0.004
-			administrative_multiplier = 2
-			global_immigrant_attract = 0.02
-		}
-		acceptable_health_care = {
-			global_population_growth = 0.006
-			administrative_multiplier = 3
 			global_immigrant_attract = 0.03
 		}
-		good_health_care = {
-			global_population_growth = 0.008
-			administrative_multiplier = 4
+		low_health_care = {
+			administrative_multiplier = 2
 			global_immigrant_attract = 0.04
+		}
+		acceptable_health_care = {
+			administrative_multiplier = 3
+			global_immigrant_attract = 0.05
+		}
+		good_health_care = {
+			administrative_multiplier = 4
+			global_immigrant_attract = 0.06
 		}
 	}
 

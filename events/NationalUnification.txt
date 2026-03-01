@@ -182,3 +182,37 @@ country_event = {
 		}
 	}
 }
+#SPAIN + PORTUGAL
+country_event = {
+	title = "EVTNAME3471001"
+	desc = "EVTDESC3471001"
+	picture = "Celebration"
+
+	id = 3471001
+
+	is_triggered_only = yes
+
+	option = {				# Accept inheritance
+		name = "EVTOPTA3471001"
+		
+		SPA = {
+			inherit = POR
+			#add_accepted_culture = portuguese
+		}
+
+		ai_chance = {
+			factor = 100
+		}
+	}
+
+	option = {
+		name = "EVTOPTB3471001"
+		prestige = 5
+		ai_chance = {
+			factor = 0
+		}
+		any_pop = {
+			militancy = 2
+		}
+	}
+}

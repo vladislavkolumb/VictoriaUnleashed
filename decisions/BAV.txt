@@ -1,0 +1,30 @@
+south_german_unification = {
+    potential = {
+        tag = BAV
+    }
+
+    allow = {
+        relation = { who = BAD value = 200 }
+        relation = { who = WUR value = 200 }
+    }
+
+    effect = {
+
+        # Аннексия Бадена
+        if = {
+            limit = { exists = BAD }
+            BAV = { inherit = BAD }
+        }
+
+        # Аннексия Вюртемберга
+        if = {
+            limit = { exists = WUR }
+            BAV = { inherit = WUR }
+        }
+
+    }
+
+    ai_will_do = {
+        factor = 1
+    }
+}

@@ -12,41 +12,49 @@ USA_bourgeois_dictatorship;США;X
 CSA_bourgeois_dictatorship;КША;X
 USA_fascist_dictatorship;США;X
 LPL;Ла-Плата;X
+annex_portugal_title;Обьединение с Португалией;X
+annex_portugal_desc;На протяжении веков Пиренейский полуостров был разделён между двумя коронами, чьи судьбы неоднократно переплетались — в браках, войнах и династических союзах. Теперь, когда Европа меняется, а великие державы укрепляют свои позиции, вопрос о будущем Иберии вновь стоит на повестке дня.;X
 AND;Андская Федерация;X
-CSA_fascist_dictatorship;КША;X
-REMOVE_USA_prussian_constitutionalism;СКСА;X
-CSA_prussian_constitutionalism;НКСА;X
-USA_democracy;США;X
-CSA_democracy;КША;X
-CAL_absolute_monarchy;Королевство Калифорния;X
-CAL_hms_government;Королевство Калифорния;X
-DOM_absolute_monarchy;Санто-Доминго;X
-DOM_hms_government;Санто-Доминго;X
-ENG_democracy;Британская федерация;X
-TECH_DAILY_LEADERSHIP_BASE_TOOLTIP;Базовое число очков лидерства в месяц: §Y$VALUE$§W;X
-TECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;Ежемесячное число очков лидерства: §G+$VALUE$§W;X
-TECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ обеспечивают нам §G$VALUE$§W очков лидерства\n(они составляют §Y$FRACTION$%§W населения при оптимальных $OPTIMAL$%).;X
-MODIFIER_CORE_POP_MILITANCY_MODIFIER;Агрессивность в неколониальных регионах;X
-MODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;Сознательность в неколониальных регионах;X
-MODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;Агрессивность непризнанных культур;X
-MODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;Сознательность непризнанных культур;X
-AUS_734;Южный Тироль;X
-EVTNAME23212;Наблюдение кометы;X
-EVTDESC23212;Недавно в нашем небе была зафиксирована комета. Некоторые уверены, что это предвестник будущего упадка. Другие верят, что это просто феи летят по небу. Третьи же полагают, что комета - это гигантский шар изо льда, летающий в космосе, а ее длинный хвост создается благодаря энергии солнца. Споры вокруг этих трех одинаково жизнеспособных теорий стимулируют научные поиски в нашей стране.;X
-EVTOPTA23212;Слава богу, мы живем в просвещенное время;X
-EVTNAME60140;Конституционный конвент;X
-EVTDESC60140;Власть в нашей стране полностью находится в руках либералов, и они полагают, что пришла пора для созыва конституционного конвента. Точка зрения каждого человека, ну, или, по крайней мере, всех, чье мнение действительно является важным, будет представлена в этом новом собрании, призванным определить дальнейший путь нашей славной державы.;X
-EVTOPTA60140;Иначе люди воспользуются ситуацией в своих целях;X
-become_guatemala_title;Провозглашение Гватемалы;X
-BUDGET_STOCKPILE_YESTERDAYS;Приобретенные за прошедший день товары:;X
-become_guatemala_desc;Мечта об объединенном центрально-американском государстве канула в лету. Другие провинции были слишком озабочены доминирующим положением Гватемалы, чтобы оценить те жертве, которые мы приносили ради сохранения союза. Больше такого не будет. Мы покончили с этим. Отныне Гватемала будет одна искать свою судьбу.;X
-MOR_1683;Таза;X
-LAG_PAUSE;Игрок $PLAYER$ отстает, и нажимает на паузу.;X
-LAG_DECREASE_SPEED;Игрок $PLAYER$ отстает, и уменьшает скорость.;X
-PAUSED_BY;Пауза нажата игроком §Y$PLAYER$§W.;X
-WARGOAL_OTHER_ACCEPT_SETUP;Одна держава расширяет свою войну против другой;X
-WARGOAL_THEY_ACCEPT_SETUP;Мы расширяем свою войну против другой державы;X
-WARGOAL_WE_ACCEPT_SETUP;Другая держава расширяет свою войну против нас;X
+south_german_diplomacy_title;Южногерманское объединение;X
+south_german_diplomacy_desc;Южная Германия должна объединится под единым флагом! Вместе мы сильнее.;X
+EVTDESC900020title;Становление Южногерманской Конфедерацией;X
+EVTDESC900020desc;После успешного объединения южных государств провозглашается создание нового политического образования — Южногерманского Союза под нашим руководством.;X
+EVTDESC900020name;Возрадуйся!;X
+50K_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 50.000 фунтов.;X;X;X;X;X;X 
+100K_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 100.000 фунтов.;X;X;X;X;X;XCSA_fascist_dictatorship;КША;X
+250K_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 250.000 фунтов.;X;X;X;X;X;XREMOVE_USA_prussian_constitutionalism;СКСА;X
+500K_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 500.000 фунтов.;X;X;X;X;X;XCSA_prussian_constitutionalism;НКСА;X
+1M_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 1.000.000 фунтов.;X;X;X;X;X;XUSA_democracy;США;X
+2M_came_EvtDesc;Страна $FROMCOUNTRY$ откликнулась и прислала нам 2.000.000 фунтов.;X;X;X;X;X;XCSA_democracy;КША;X
+Grant_Requested_EvtOpt50;Отправить им 50.000;X;X;X;X;X;XCAL_absolute_monarchy;Королевство Калифорния;X
+Grant_Requested_EvtOpt100;Отправить им 100.000;X;X;X;X;X;XCAL_hms_government;Королевство Калифорния;X
+Grant_Requested_EvtOpt250;Отправить им 250.000;X;X;X;X;X;XDOM_absolute_monarchy;Санто-Доминго;X
+Grant_Requested_EvtOpt500;Отправить им 500.000;X;X;X;X;X;XDOM_hms_government;Санто-Доминго;X
+Grant_Requested_EvtOpt1M;Отправить им 1.000.000;X;X;X;X;X;XENG_democracy;Британская федерация;X
+Grant_Requested_EvtOpt2M;Отправить им 2.000.000;X;X;X;X;X;XTECH_DAILY_LEADERSHIP_BASE_TOOLTIP;Базовое число очков лидерства в месяц: §Y$VALUE$§W;X
+aid_came_EvtName;Помощь $FROMCOUNTRY$;X;X;X;X;X;XTECH_DAILY_LEADERSHIP_TOTAL_TOOLTIP;Ежемесячное число очков лидерства: §G+$VALUE$§W;X
+money_came_EvtOptA;Спасибо!;X;X;X;X;X;XTECH_DAILY_LEADERSHIP_TOOLTIP;$POPTYPE$ обеспечивают нам §G$VALUE$§W очков лидерства\n(они составляют §Y$FRACTION$%§W населения при оптимальных $OPTIMAL$%).;X
+Insufficient_Stuff_EvtName;Помощь: Провал;X;X;X;X;X;XMODIFIER_CORE_POP_MILITANCY_MODIFIER;Агрессивность в неколониальных регионах;X
+Insufficient_Stuff_EvtDesc;Назначенная экономическая помощь не была отправлена по причине того, что у нас недостаточно денег/товаров на складе.;X;X;X;X;X;XMODIFIER_CORE_POP_CONSCIOUSNESS_MODIFIER;Сознательность в неколониальных регионах;X
+Insufficient_Stuff_EvtOptA;Может, оно и к лучшему?;X;X;X;X;X;XMODIFIER_NON_ACCEPTED_POP_MILITANCY_MODIFIER;Агрессивность непризнанных культур;X
+Something_Requested_EvtOptDecline;Ничем не можем помочь.;X;X;X;X;X;XMODIFIER_NON_ACCEPTED_POP_CONSCIOUSNESS_MODIFIER;Сознательность непризнанных культур;X
+Something_Requested_EvtName;Иностранный запрос;X;X;X;X;X;XAUS_734;Южный Тироль;X
+Grant_Requested_EvtDesc;Страна §L$FROMCOUNTRY$§! запрашивает экономическую помощь. Отправим ли мы им деньги?;X;X;X;X;X;XEVTNAME23212;Наблюдение кометы;X
+Arms_Requested_EvtDesc;Страна §L$FROMCOUNTRY$§! запрашивает винтовки. Отправим ли мы им ленд-лиз?;X;X;X;X;X;XEVTDESC23212;Недавно в нашем небе была зафиксирована комета. Некоторые уверены, что это предвестник будущего упадка. Другие верят, что это просто феи летят по небу. Третьи же полагают, что комета - это гигантский шар изо льда, летающий в космосе, а ее длинный хвост создается благодаря энергии солнца. Споры вокруг этих трех одинаково жизнеспособных теорий стимулируют научные поиски в нашей стране.;X
+Ammo_Requested_EvtDesc;Страна §L$FROMCOUNTRY$§! запрашивает амуницию. Отправим ли мы им ленд-лиз?;X;X;X;X;X;XEVTOPTA23212;Слава богу, мы живем в просвещенное время;X
+Arty_Requested_EvtDesc;Страна §L$FROMCOUNTRY$§! запрашивает артиллерию. Отправим ли мы им ленд-лиз?;X;X;X;X;X;XEVTNAME60140;Конституционный конвент;X
+Exchange_EvtOptEnable;§G+++§! Включить уведомления;X;X;X;X;X;XEVTDESC60140;Власть в нашей стране полностью находится в руках либералов, и они полагают, что пришла пора для созыва конституционного конвента. Точка зрения каждого человека, ну, или, по крайней мере, всех, чье мнение действительно является важным, будет представлена в этом новом собрании, призванным определить дальнейший путь нашей славной державы.;X
+Exchange_EvtOptRequest;Запрос денег;X;X;X;X;X;XEVTOPTA60140;Иначе люди воспользуются ситуацией в своих целях;X
+Exchange_EvtOptRequestArty;Запрос артиллерии;X;X;X;X;X;Xbecome_guatemala_title;Провозглашение Гватемалы;X
+Exchange_EvtOptRequestArms;Запрос винтовок;X;X;X;X;X;XBUDGET_STOCKPILE_YESTERDAYS;Приобретенные за прошедший день товары:;X
+Exchange_EvtOptRequestAmmo;Запрос амуниции;X;X;X;X;X;Xbecome_guatemala_desc;Мечта об объединенном центрально-американском государстве канула в лету. Другие провинции были слишком озабочены доминирующим положением Гватемалы, чтобы оценить те жертве, которые мы приносили ради сохранения союза. Больше такого не будет. Мы покончили с этим. Отныне Гватемала будет одна искать свою судьбу.;X
+Exchange_EvtOptDisable;§R---§! Выключить уведомления;X;X;X;X;X;XMOR_1683;Таза;X
+Exchange_EvtName;Передача;X;X;X;X;X;XLAG_PAUSE;Игрок $PLAYER$ отстает, и нажимает на паузу.;X
+Exchange_EvtDesc;Настройте уведомления о запросах денег или ленд-лиза. Помните, что для того, чтобы предоставлять ленд-лиз, необходимо выкрутить закупки и закупить необходимые припасы.;X;X;X;X;X;XLAG_DECREASE_SPEED;Игрок $PLAYER$ отстает, и уменьшает скорость.;X
+exchange_settings_dec_title;§Y%%%§! Передача денег §R/ §GЛенд-лиз§!;X;X;X;X;X;XPAUSED_BY;Пауза нажата игроком §Y$PLAYER$§W.;X
+exchange_settings_dec_desc; ;X;X;X;X;X;XWARGOAL_OTHER_ACCEPT_SETUP;Одна держава расширяет свою войну против другой;X
+grant_request_cooldown_modifier;КД;X;X;X;X;X;XWARGOAL_THEY_ACCEPT_SETUP;Мы расширяем свою войну против другой державы;X
+grant_request_cooldown_modifier_desc;На взаимствование денежной помощи;X;X;X;X;X;XWARGOAL_WE_ACCEPT_SETUP;Другая держава расширяет свою войну против нас;X
 status_quo_setup;Мы требуем лишь оставить нас в покое.;X
 army_1;Генеральный штаб нового века;X
 army_2;Оружие современного стандарта;X

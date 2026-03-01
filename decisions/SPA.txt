@@ -61,4 +61,38 @@ political_decisions = {
 			set_country_flag = mendizabal_confiscated
 		}
 	}
+
+	annex_portugal = {
+		potential = { 
+			is_greater_power = yes
+			primary_culture = spanish
+			exists = POR
+		}
+	
+		allow = {
+			is_sphere_leader_of = POR
+			is_greater_power = yes
+		}
+	
+		effect = {
+			POR = {
+				country_event = { id=3471001 days=0 }
+			}
+			521 = {
+				add_core = SPA
+			}
+			526 = {
+				add_core = SPA
+			}
+			2135 = {
+				add_core = SPA
+			}
+			add_accepted_culture = portuguese
+			prestige = 30
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

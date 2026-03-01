@@ -758,3 +758,9 @@ liberian_research_boost = {
 	research_points_modifier = 0.15
 	icon = 5
 }
+
+
+#запрос деняк
+grant_request_cooldown_modifier = {
+icon = 20
+}

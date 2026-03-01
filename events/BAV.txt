@@ -1,0 +1,70 @@
+country_event = {
+
+    id = 900010
+    is_triggered_only = yes
+
+    option = {
+
+        name = "Присоединиться к Баварии"
+
+        ai_chance = {
+            factor = 100
+        }
+
+        BAV = {
+        prestige = 5
+        inherit = THIS
+        country_event = { id = 900020 days = 0 } # триггер смены государства
+    }
+    }
+
+    option = {
+        name = "Отказаться"
+        ai_chance = {
+            factor = 0
+        }
+    }
+    
+}
+
+country_event = {
+
+    id = 900011
+    is_triggered_only = yes
+
+    option = {
+
+        name = "Присоединиться к Баварии"
+
+        ai_chance = {
+            factor = 100
+        }
+
+        BAV = {
+            inherit = THIS
+        }
+    }
+
+    option = {
+        name = "Отказаться"
+        ai_chance = {
+            factor = 0
+        }
+    }
+}
+
+country_event = {
+    id = 900020
+    is_triggered_only = yes
+    picture = "Deutschlandlied"
+    title = "EVTDESC900020title"
+    desc = "EVTDESC900020desc"
+
+    option = {
+
+        name = "EVTDESC900020name"
+
+        change_tag = SGF   # ← новый тег
+        prestige = 10
+    }
+}
