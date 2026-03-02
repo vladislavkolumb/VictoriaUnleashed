@@ -181,15 +181,37 @@ political_decisions = {
 		effect = {
 			prestige = 10
 			2068 = {
-				change_province_name = "Солсбери"
+				change_province_name = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 				state_scope = {
-					change_region_name = "Южная Родезия"
+					change_region_name = "пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ"
 					any_owned = {
 						add_core = RHO
 					}
 				}
 			}
 			set_country_flag = ian_would_be_proud
+		}
+	}
+
+	otmena_zabastovok = {
+		potential = { 
+			tag = ENG
+			has_country_modifier = british_strike_crisis
+		}
+	
+		allow = {
+			safety_regulations = low_safety
+			money = 250000
+		}
+	
+		effect = {
+			remove_country_modifier = british_strike_crisis
+			money = -250000
+			prestige = 15
+		}
+	
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

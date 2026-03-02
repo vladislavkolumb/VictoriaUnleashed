@@ -12,6 +12,13 @@ USA_bourgeois_dictatorship;США;X
 CSA_bourgeois_dictatorship;КША;X
 USA_fascist_dictatorship;США;X
 LPL;Ла-Плата;X
+otmena_zabastovok;Отмена забастовок;X
+otmena_zabastovok_title;Отмена забастовок;X
+otmena_zabastovok_desc;Мы провели необходимые социальные реформы, и теперь рабочие лояльно относятся к нам.;X
+EVTNAMEId365894;Забастовки!;X
+EVTDESCId365894;В связи с отсутствием социальных реформ, наши рабочие выходят на страйки и митинги, они хотят прав! §gЧтобы убрать дебафф для этого есть соответствующее решение§ ;X
+EVTOPTAId365894;Бунтари!;X
+british_strike_crisis;Забастовки рабочих;X                                                                                          
 supply_limit_in_capital_title;Снабжение в столице;X
 supply_limit_in_capital_desc;Организуем в столице лагерь снабжения, чтобы далбаебы не умирали;X
 annex_portugal_title;Обьединение с Португалией;X

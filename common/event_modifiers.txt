@@ -769,3 +769,15 @@ capital_supply_depot_pmodifier = {
 		max_attrition = -100
 		icon = 17
 }
+
+british_strike_crisis = {
+    factory_output = -0.05
+	factory_cost = 0.3
+	factory_throughput = -0.005
+	icon = 4
+}
+
+irish_famine = {
+    farm_rgo_size = -0.35
+    immigrant_push = 0.5
+}

@@ -36,3 +36,8 @@ disable_loans = {
 	max_loan_modifier = -1.0
 	icon = 9
 }
+
+british_strike_crisis = {
+    factory_output = -0.20
+    factory_maintenance_cost = 0.25
+}

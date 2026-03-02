@@ -1794,3 +1794,60 @@ country_event = {
 			}
 		}
 }
+
+country_event = {
+	id = 36943
+	title = "EVTNAMEId365894"
+	desc = "EVTDESCId365894"
+	picture = pinkertons	
+	is_triggered_only = no
+	
+	trigger = {
+		tag = ENG
+		year = 1836
+		NOT = { has_country_modifier = british_strike_crisis }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+		
+	}
+	option = {
+		name = "EVTOPTAId365894"
+		add_country_modifier = {
+            name = british_strike_crisis
+            duration = 36500
+        }
+	}
+}
+
+country_event = {
+	id = 36944
+	title = "EVTNAMEId36944"
+	desc = "EVTDESCId36944"
+	picture = starving
+	is_triggered_only = no
+	
+	trigger = {
+		tag = ENG
+		year = 1836
+		NOT = {
+			263 = {
+				has_province_modifier = irish_famine
+			}
+
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 2
+		
+	}
+	option = {
+		name = "EVTOPTAId36944"
+		254 = {
+			add_province_modifier = { name = irish_famine duration = 3650 }
+		}
+
+	}
+}
