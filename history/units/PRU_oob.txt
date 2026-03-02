@@ -368,49 +368,51 @@ army = {
 		type = infantry
 		home = 553
 	}
-
 	regiment = {
 		name= "2-я пехотная бригада"
 		type = infantry
 		home = 557
 	}
-
 	regiment = {
 		name= "3-я пехотная бригада"
 		type = infantry
 		home = 554
 	}
-
 	regiment = {
 		name= "1-я инженерная бригада"
-		type = engineer
+		type = infantry
 		home = 577
 	}
-
 	regiment = {
 		name= "4-я пехотная бригада"
 		type = infantry
 		home = 2561
 	}
-
 	regiment = {
 		name= "5-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 582
 	}
-
 	regiment = {
 		name= "6-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 582
 	}
-
 	regiment = {
 		name= "1-я артиллерийская бригада"
 		type = artillery
 		home = 584
 	}
-
+	regiment = {
+		name= "11-я кавалерийская бригада"
+		type = artillery
+		home = 701
+	}
+	regiment = {
+		name = "5-я артиллерийская бригада"
+		type = hussar
+		home = 701
+	}
 }
 
 army = {
@@ -421,49 +423,51 @@ army = {
 		type = infantry
 		home = 682
 	}
-
 	regiment = {
 		name= "8-я пехотная бригада"
 		type = infantry
 		home = 682
 	}
-
 	regiment = {
 		name= "9-я пехотная бригада"
 		type = infantry
 		home = 682
 	}
-
 	regiment = {
 		name= "2-я инженерная бригада"
-		type = engineer
+		type = infantry
 		home = 684
 	}
-
 	regiment = {
 		name= "10-я пехотная бригада"
 		type = infantry
 		home = 684
 	}
-
 	regiment = {
 		name= "11-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 684
 	}
-
 	regiment = {
 		name= "12-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 685
 	}
-
 	regiment = {
 		name= "2-я артиллерийская бригада"
 		type = artillery
 		home = 685
 	}
-
+	regiment = {
+		name= "30-я пехотная бригада"
+		type = artillery
+		home = 578
+	}
+	regiment = {
+		name = "31-я пехотная бригада"
+		type = hussar
+		home = 594
+	}
 }
 
 army = {
@@ -489,7 +493,7 @@ army = {
 
 	regiment = {
 		name= "3-я инженерная бригада"
-		type = engineer
+		type = infantry
 		home = 693
 	}
 
@@ -501,13 +505,13 @@ army = {
 
 	regiment = {
 		name= "17-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 695
 	}
 
 	regiment = {
 		name= "18-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 698
 	}
 
@@ -515,6 +519,17 @@ army = {
 		name= "3-я артиллерийская бригада"
 		type = artillery
 		home = 698
+	}
+	regiment = {
+		name= "28-я пехотная бригада"
+		type = artillery
+		home = 575
+	}
+
+	regiment = {
+		name= "29-я пехотная бригада"
+		type = hussar
+		home = 576
 	}
 
 }
@@ -527,175 +542,107 @@ army = {
 		type = infantry
 		home = 547
 	}
-
 	regiment = {
 		name= "20-я пехотная бригада"
 		type = infantry
 		home = 546
 	}
-
 	regiment = {
 		name= "21-я пехотная бригада"
 		type = infantry
 		home = 679
 	}
-
 	regiment = {
 		name= "4-я инженерная бригада"
-		type = engineer
+		type = infantry
 		home = 680
 	}
-
 	regiment = {
 		name= "22-я пехотная бригада"
 		type = infantry
 		home = 548
 	}
-
 	regiment = {
 		name= "23-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 548
 	}
-
 	regiment = {
 		name= "4-я артиллерийская бригада"
 		type = artillery
 		home = 578
 	}
-
-}
-
-army = {
-	name = "5-й корпус"
-	location = 580
 	regiment = {
 		name= "25-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 580
 	}
 
 	regiment = {
 		name= "26-я пехотная бригада"
-		type = infantry
+		type = artillery
 		home = 580
 	}
 
 	regiment = {
 		name= "27-я пехотная бригада"
-		type = infantry
+		type = hussar
 		home = 581
 	}
-
 }
 
 army = {
-	name = "6-й корпус"
-	location = 575
-	regiment = {
-		name= "28-я пехотная бригада"
-		type = infantry
-		home = 575
-	}
-
-	regiment = {
-		name= "29-я пехотная бригада"
-		type = infantry
-		home = 576
-	}
-
-	regiment = {
-		name= "30-я пехотная бригада"
-		type = infantry
-		home = 578
-	}
-
-}
-
-army = {
-	name = "7-й корпус"
+	name = "5-й корпус"
 	location = 546
 	regiment = {
 		name= "1-я кавалерийская бригада"
-		type = cuirassier
+		type = infantry
 		home = 552
 	}
-
 	regiment = {
 		name= "2-я кавалерийская бригада"
-		type = cuirassier
+		type = infantry
 		home = 549
 	}
-
 	regiment = {
 		name= "3-я кавалерийская бригада"
-		type = cuirassier
+		type = infantry
 		home = 687
 	}
-
 	regiment = {
 		name= "4-я кавалерийская бригада"
-		type = cuirassier
+		type = infantry
 		home = 681
 	}
-
 	regiment = {
 		name= "5-я кавалерийская бригада"
-		type = cuirassier
+		type = infantry
 		home = 550
 	}
-
 	regiment = {
 		name= "6-я кавалерийская бригада"
-		type = dragoon
+		type = artillery
 		home = 551
 	}
-
 	regiment = {
 		name= "7-я кавалерийская бригада"
-		type = dragoon
+		type = artillery
 		home = 699
 	}
-
 	regiment = {
 		name= "8-я кавалерийская бригада"
-		type = dragoon
+		type = artillery
 		home = 699
 	}
-
 	regiment = {
 		name= "9-я кавалерийская бригада"
-		type = dragoon
+		type = artillery
 		home = 700
 	}
-
 	regiment = {
 		name= "10-я кавалерийская бригада"
-		type = dragoon
+		type = hussar
 		home = 692
-	}
-}
-
-army = {
-	name = "8-й корпус"
-	location = 594
-	
-	regiment = {
-		name = "31-я пехотная бригада"
-		type = infantry
-		home = 594
-	}
-	
-	regiment = {
-		name= "11-я кавалерийская бригада"
-		type = dragoon
-		home = 701
-	}
-
-	regiment = {
-		name = "5-я артиллерийская бригада"
-		type = artillery
-		home = 701
 	}
 }
 
