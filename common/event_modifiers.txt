@@ -769,3 +769,29 @@ capital_supply_depot_pmodifier = {
 		max_attrition = -100
 		icon = 17
 }
+
+#-------------------------------------------------------ТУРЦИЯ-------------------------------------------------------
+investiments_yes = {
+	icon = 13
+}
+tur_war_warfare_army = {
+	land_organisation = 0.10
+	naval_organisation = -0.05
+	icon = 15
+}
+tur_war_warfare_navy = {
+	naval_organisation = 0.10
+	land_organisation = -0.05
+	icon = 15
+}
+tur_war_industry = {
+	local_factory_output = 0.03
+	local_RGO_output = 0.03
+}
+tur_war_industry_all = {
+	factory_output = 0.04
+	factory_throughput = 0.04
+	factory_input = -0.02
+}
+culture_tur_boost = {
+	culture_tech_research_bonus = 0.1

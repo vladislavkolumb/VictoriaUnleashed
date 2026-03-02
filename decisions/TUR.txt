@@ -1,37 +1,5 @@
 political_decisions = {
-#----------------------------------------------------------- Признание Албанцев -------------------------------------------------------------	
-	tanzimat_reforms = {
-	picture = tanzimat_reforms
-		potential = {
-			
-			tag = TUR
-			NOT = {
-				has_country_flag = tanzimat_reforms_enacted
-			}
-		}
-		
-		allow = {
-			prestige = 50
-			#exists = MON
-			#NOT = {
-			#}
-			functionalism = 1
-		}
-		
-		effect = {
-			any_pop = {
-				consciousness = 3
-				literacy = 0.03
-				}
-			prestige = 20
-			TUR_853 = {	
-					life_rating = 3}
-			add_accepted_culture = albanian
-			set_country_flag = tanzimat_reforms_enacted
-		}
-	}
-	
-#----------------------------------------------------------- ПРИЗНАННЫЕ БОЛГАРЫ -------------------------------------------------------------	
+#----------------------------------------------------------- Признание Болгар -------------------------------------------------------------	
 	kanun_i_esasi = {
 	picture = kanun_i_esasi
 		potential = {
@@ -68,6 +36,37 @@ political_decisions = {
 					average_militancy = 1
 				}
 			}
+		}
+	}
+#----------------------------------------------------------- Признание Албанцев -------------------------------------------------------------	
+	tanzimat_reforms = {
+	picture = tanzimat_reforms
+		potential = {
+			
+			tag = TUR
+			NOT = {
+				has_country_flag = tanzimat_reforms_enacted
+			}
+		}
+		
+		allow = {
+			prestige = 50
+			#exists = MON
+			#NOT = {
+			#}
+			functionalism = 1
+		}
+		
+		effect = {
+			any_pop = {
+				militancy = 2
+				literacy = 0.03
+				}
+			prestige = 20
+			TUR_853 = {	
+					life_rating = 3}
+			add_accepted_culture = albanian
+			set_country_flag = tanzimat_reforms_enacted
 		}
 	}
 	
@@ -119,100 +118,102 @@ political_decisions = {
 		}
 	}
 	
-	form_israel = {
+#----------------------------------------------------------- АП ДП И ФАБРИК -------------------------------------------------------------	
+	tur_war_corp = {
+		picture = expand_motala_verkstad
 		potential = {
-			civilized = yes
+		
+			tag = TUR
 			NOT = {
-				has_global_flag = israel_has_her_cores
-			}
-			916 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			917 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			918 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			919 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			920 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
-			}
-			921 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
-				}
+				has_country_flag = tur_war_corp_1
 			}
 		}
+		
 		allow = {
-			is_greater_power = yes
-			revolution_n_counterrevolution = 1
+			mechanical_production = 1
+			money = 100000
 		}
+		
 		effect = {
-			EGY_921 = { add_core = ISR }
-			prestige = 10
-			set_global_flag = israel_has_her_cores
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					tag = ENG
+			TUR_869 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
 				}
 			}
+			TUR_863 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
+				}
+			}
+			prestige = 5
+			money = -100000
+			set_country_flag = tur_war_corp_1
 		}
 	}
-	repression = {
-        potential = {
-            tag = TUR
-            ai = no
-            NOT = {
-                has_country_flag = repp
-            }
-        }
-        allow = {
-            983 = {
-                NOT = {
-                    owned_by = TUR
-                }
-            }
-        }
-        effect = {
-            prestige = 20
-            set_country_flag = repp
-        }
-    }
+#----------------------------------------------------------- АП ДП И ФАБРИК 2 -------------------------------------------------------------	
+	tur_war_corp_sec = {
+		picture = expand_motala_verkstad
+		potential = {
+		
+			tag = TUR
+
+			has_country_flag = tur_war_corp_1
+			NOT = {
+				has_country_flag = tur_war_corp_2
+			}
+		}
+		
+		allow = {
+			semi_automatization = 1
+			money = 200000
+			prestige = 300
+			year = 1850
+		}
+		
+		effect = {
+			TUR_876 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
+				}
+			}
+			prestige = 5
+			money = -200000
+			set_country_flag = tur_war_corp_2
+		}
+	}
+#----------------------------------------------------------- АП ДП И ФАБРИК 3 -------------------------------------------------------------	
+	tur_war_corp_end = {
+		picture = expand_motala_verkstad
+		potential = {
+		
+			tag = TUR
+
+			has_country_flag = tur_war_corp_2
+			NOT = {
+				has_country_flag = tur_war_corp_3
+			}
+		}
+		
+		allow = {
+			assembly_line = 1
+			money = 500000
+			prestige = 400
+			year = 1870
+		}
+		
+		effect = {
+			add_country_modifier = {
+					name = tur_war_industry_all
+					duration = -1
+			}
+			prestige = 5
+			money = -500000
+			set_country_flag = tur_war_corp_3
+		}
+	}	
 }
 
 

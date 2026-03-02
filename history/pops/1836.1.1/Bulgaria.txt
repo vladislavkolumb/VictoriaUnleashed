@@ -47,7 +47,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90075
+		size = 50075
 	}
 }
 #Bulgaria Region (1132000)
@@ -111,7 +111,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90425
+		size = 50425
 	}
 
 	clergymen = {
@@ -185,7 +185,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90350
+		size = 50350
 	}
 
 	clergymen = {
@@ -247,7 +247,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90050
+		size = 50050
 	}
 
 	clergymen = {
@@ -309,7 +309,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90650
+		size = 50650
 	}
 }
 #Shumen (144000/36000 POPS)
@@ -359,7 +359,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 80000
+		size = 50000
 	}
 }
 #Varna (220000/55000 POPS)
@@ -409,7 +409,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90875
+		size = 50875
 	}
 }
 #Rumelia Region (396000)
@@ -473,7 +473,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 90475
+		size = 50475
 	}
 
 	clergymen = {
@@ -577,7 +577,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 80475
+		size = 50475
 	}
 
 	clergymen = {
@@ -651,7 +651,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 80275
+		size = 50275
 	}
 
 	clergymen = {
