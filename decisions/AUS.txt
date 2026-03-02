@@ -97,4 +97,37 @@ political_decisions = {
 			set_country_flag = grunderzeit_we_have_done
 		}
 	}
+	form_ukraine = {
+		potential = { 
+			tag = AUS
+			NOT = {
+				exists = UKR
+			}
+		}
+	
+		allow = {
+			AUS = {
+				owns = 968
+				owns = 958
+			}
+		}
+	
+		effect = {
+			change_tag = UKR
+			add_accepted_culture = ukrainian
+			add_accepted_culture = russian
+			add_accepted_culture = turks
+			add_accepted_culture = hungarian
+			add_accepted_culture = polish
+			add_accepted_culture = ashkenazi
+			add_accepted_culture = serb
+			add_accepted_culture = bulgarian
+			add_accepted_culture = bosniak
+
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

@@ -764,3 +764,8 @@ liberian_research_boost = {
 grant_request_cooldown_modifier = {
 icon = 20
 }
+
+capital_supply_depot_pmodifier = {
+		max_attrition = -100
+		icon = 17
+}

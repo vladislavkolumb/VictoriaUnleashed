@@ -318,4 +318,50 @@ political_decisions = {
 			country_event = 57052
 		}
 	}
+	dip_med = {
+	picture = dip_med
+		potential = {
+			civilized = yes
+			NOT = {
+				has_country_flag = dip_med
+			}
+		}
+		allow = {
+			money = 2000000
+			year = 1836
+		}
+		
+		effect = {
+			set_country_flag = dip_med
+			prestige = 5
+			money = -2000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	dip_med1 = {
+	picture = dip_med
+		potential = {
+			civilized = yes
+			has_country_flag = dip_med
+			NOT = {
+				has_country_flag = dip_med1
+			}
+		}
+		allow = {
+			money = 5000000
+			year = 1860
+		}
+		
+		effect = {
+			set_country_flag = dip_med1
+			prestige = 10
+			money = -5000000
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

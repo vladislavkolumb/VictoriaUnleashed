@@ -1116,7 +1116,7 @@ rubber_vulcanization = {
 catalytic_fermentative_process = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = 2
+		base = -100
 		modifier = {
 			factor = 2
 			business_banks = 1
@@ -1125,8 +1125,13 @@ catalytic_fermentative_process = {
 			factor = 2
 			scientific_management = 1
 		}
+		modifier = {
+			factor = 105
+			has_country_flag = dip_med
+			}
 	}
 	effect = {
+		pop_growth = 0.0002
 		factory_goods_output = {
 			wine = 0.02
 		} 
@@ -1153,7 +1158,7 @@ synthetic_dye = {
 gaslights = {
 	limit = { organic_chemistry = 1 }
 	chance = {
-		base = 2
+		base = -100
 		modifier = {
 			factor = 2
 			invention = patent
@@ -1162,9 +1167,14 @@ gaslights = {
 			factor = 2
 			investment_banks = 1
 		}
+		modifier = {
+			factor = 105
+			has_country_flag = dip_med1
+		}
 	}
 	effect = {
 		factory_throughput = 0.05
+		pop_growth = 0.0002
 	}
 }
 carbon_soil_enrichment = {

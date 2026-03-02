@@ -18,6 +18,7 @@ country_event = {
 		name = "Exchange_EvtOptRequest"
 		any_country = {
 			limit = {
+				alliance_with = THIS
 				ai = no
 				NOT = { 
 					has_country_flag = exchange_disallow_flag

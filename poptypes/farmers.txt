@@ -6,11 +6,13 @@ equivalent = labourers
 
 
 everyday_needs = {
+	canned_food = 2
+	fabric = 1
 	tea = 4
 	coal = 1
 	liquor = 3
-	regular_clothes = 1.2
-	furniture = 1.1
+	regular_clothes = 1.5
+	furniture = 1.5
 	fertilizer = 0.5 #0
 }
 
@@ -23,7 +25,7 @@ life_needs = {
 }
 
 
-luxury_needs = {	
+luxury_needs = {
 	regular_clothes = 3
 	furniture = 3
 	liquor = 1.5
@@ -344,9 +346,9 @@ promote_to =
 	}
 	bureaucrats =
 	{
-		factor = 0.01
+		factor = 0.015
 		modifier = {
-			factor = -100 
+			factor = -98 
 			NOT = { is_accepted_culture = yes }
 			NOT = { is_primary_culture = yes }
 		}	
@@ -703,28 +705,28 @@ promote_to =
 	craftsmen = {
 		factor = 0.01
 			modifier = {
-				factor = -5
+				factor = -3
 				not = { literacy = 0.1 }
 			}
 			modifier = {
-				factor = -3
+				factor = -2
 				not = { literacy = 0.15 }
 			}
 			modifier = {
-				factor = -2
+				factor = -1
 				not = { literacy = 0.2 }
 			}
 			modifier = {
-				factor = -2
+				factor = -1
 				not = { literacy = 0.25 }
 			}
 			modifier = {
-				factor = -2
+				factor = -1
 				not = { literacy = 0.3 }
 			}
 		group = {
 			modifier = {
-				factor = 1
+				factor = 2
 				literacy = 0.3
 			}
 			modifier = {
@@ -757,10 +759,26 @@ promote_to =
 			}
 		}
 		modifier = {
-			factor = 10
+			factor = 13
 			state_scope = {
 				has_factories = yes
 			}
+		}
+		modifier = {
+			factor = 4
+			safety_regulations = trinket_safety
+		}
+		modifier = {
+			factor = 8
+			safety_regulations = low_safety
+		}		
+		modifier = {
+			factor = 12
+			safety_regulations = acceptable_safety
+		}
+		modifier = {
+			factor = 16
+			safety_regulations = good_safety
 		}
 		modifier = {
 			factor = -40
