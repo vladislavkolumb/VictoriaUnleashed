@@ -119,4 +119,22 @@ country_event = {
 		prestige = -10
 		capital = 876
 	}
+	country_event = {
+        id = 31103
+
+        trigger = {
+            tag = TUR
+            NOT = { owns = 983}
+        }
+        mean_time_to_happen = {
+            month = 1
+        }
+        title = "EVTNAME31102" #Flight from Istanbul
+        desc = "EVTDESC31102" #Our position in Istanbul is no longer secure. We should move our government to a safer place.
+        picture = "administration"
+        option = {
+            name = "EVTOPTA31102" #We have been ultimately driven from Europe...
+            add_accepted_culture = bulgarian
+        }
+    }
 }
