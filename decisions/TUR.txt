@@ -213,7 +213,97 @@ political_decisions = {
 			money = -500000
 			set_country_flag = tur_war_corp_3
 		}
-	}	
+	}
+#--------------------------- Агро развитие Ближнего Востока --------------------------	
+	tur_agro_corp = {
+		picture = restore_alsace
+		potential = {
+		
+			tag = TUR
+			NOT = {
+				has_country_flag = tur_agro_corp_1
+			}
+		}
+		
+		allow = {
+			high_n_low_pressure_steam_engines = 1
+			money = 500000
+		}
+		
+		effect = {
+			TUR_931 = {
+				add_province_modifier = {
+					name = dve_reki
+					duration = 1825
+				}
+			}
+			TUR_935 = {
+				add_province_modifier = {
+					name = dve_reki
+					duration = 1825
+				}
+			}
+			TUR_923 = {
+			add_province_modifier = {
+					name = dve_reki
+					duration = 1825
+				}
+			}
+			max_tax = 0.05
+			prestige = 5
+			money = -500000
+			set_country_flag = tur_agro_corp_1
+		}
+	}
+----------------------------Гена_Цидармян-----------------------------
+	gena_cidarmyan = {
+	picture = restore_alsace
+	potential = {
+	tag = TUR
+			NOT = {
+				has_country_flag = gena_cidarmyan
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1
+		tag = TUR
+            NOT = { owns = 802}
+		}
+		effect = {
+			TUR_889 = {
+				add_province_modifier = {
+					name = gena_cidarmyan
+					duration = 365
+				}
+			}
+			prestige = -50
+			set_country_flag = gena_cidarmyan
+		}
+	}
+----------------------------Гена_Цидармян2-----------------------------
+	gena_cidarmyan2 = {
+	picture = restore_alsace
+	potential = {
+	tag = TUR
+			has_country_flag = gena_cidarmyan
+			NOT = {
+				has_country_flag = gena_cidarmyan2
+			}
+		}
+		allow = {
+			money = 2000000
+		}
+		effect = {
+			TUR_889 = {
+				add_province_modifier = {
+					name = gena_cidarmyan2
+					duration = 1825
+				}
+			}
+			prestige = 20
+			set_country_flag = gena_cidarmyan2
+		}
+	}
 }
 
 
