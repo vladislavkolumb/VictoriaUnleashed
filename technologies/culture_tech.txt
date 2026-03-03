@@ -270,7 +270,7 @@ idealism = {
 
 empiricism = {
 	area = philosophy
-	year = 1860
+	year = 1850
 	cost = 10800
 	
 	increase_research = 0.50
@@ -628,8 +628,8 @@ state_n_government = {
 }
 nationalism_n_imperialism = {
 	area = political_thought
-	year = 1850
-	cost = 14400
+	year = 1845
+	cost = 10400
 
 	max_national_focus = 1
 	#colonial_life_rating = -10 

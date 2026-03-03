@@ -519,6 +519,21 @@ emigration_chance =
 			has_factories = yes
 			}
 	}
+	
+	modifier = {
+        factor = 0.5
+        OR = {
+            has_pop_culture = irish
+        }
+        country = {
+            NOT = {
+                OR = {
+                    accepted_culture = irish
+                }
+            }
+            has_country_flag = irish_famine
+        }
+    }
 
 	group = {
 		modifier = {
