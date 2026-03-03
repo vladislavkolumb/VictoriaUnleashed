@@ -120,3 +120,24 @@ country_event = {
 		capital = 876
 	}
 }
+country_event = {
+        id = 3061000
+		fire_only_once = yes
+
+        trigger = {
+            tag = TUR
+            NOT = { owns = 852}
+        }
+        mean_time_to_happen = {
+            month = 1
+        }
+        title = "EVTNAME3061000" #Flight from Istanbul
+        desc = "EVTDESC3061000" #Our position in Istanbul is no longer secure. We should move our government to a safer place.
+        picture = "administration"
+        option = {
+            name = "EVTOPTA3061000" #We have been ultimately driven from Europe...
+            remove_accepted_culture = albanian 
+			TUR_853 = {	
+					life_rating = -3}
+        }
+    }

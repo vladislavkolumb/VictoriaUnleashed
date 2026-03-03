@@ -364,4 +364,73 @@ political_decisions = {
 			factor = 1
 		}
 	}
+#	--------------------------------------- Анекс Черногории ---------------------------------
+	annex_MON = {
+		picture =  reichsland_elsass
+			potential = {
+			
+				OR = {
+					tag = AUS
+					tag = KUK
+					tag = TUR
+					tag = SAR
+					tag = ITA
+				}
+				exists = MON
+			}
+			
+			allow = {
+			year = 1845
+			tag = THIS
+				OR ={
+					AND = {
+						year = 1845
+						tag = THIS
+						MON = { in_sphere = THIS }
+				}
+			}
+		}
+				effect = {
+				inherit	= MON
+				prestige = 15
+				add_accepted_culture = serb
+			}
+			
+			ai_will_do = {
+				factor = 1
+		}
+	}
+---------------------------------- Анекс Сербии для Турка и Австрии -----------------------------	
+	annex_SER = {
+		picture =  reichsland_elsass
+			potential = {
+			
+				OR = {
+					tag = AUS
+					tag = KUK
+					tag = TUR
+				}
+				exists = SER
+			}
+			
+			allow = {
+			year = 1845
+			tag = THIS
+				OR ={
+					AND = {
+						year = 1845
+						tag = THIS
+						SER = { in_sphere = THIS }
+				}
+			}
+		}
+				effect = {
+				inherit	= SER
+				prestige = 15
+			}
+			
+			ai_will_do = {
+				factor = 1
+		}
+	}
 }

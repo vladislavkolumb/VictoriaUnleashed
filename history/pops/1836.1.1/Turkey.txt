@@ -325,7 +325,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 90675
+		size = 190675
 	}
 
 	bureaucrats = {

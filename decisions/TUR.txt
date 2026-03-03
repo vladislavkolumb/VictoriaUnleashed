@@ -1,34 +1,9 @@
 political_decisions = {
-	tanzimat_reforms = {
-		potential = {
-			tag = TUR
-			NOT = {
-				has_country_flag = tanzimat_reforms_enacted
-			}
-			government = absolute_monarchy
-		}
-		
-		allow = {
-			average_militancy = 3
-			average_consciousness = 4
-		}
-		
-		effect = {
-			any_pop = {
-				limit = {
-					NOT = {
-						has_pop_culture = turkish
-					}
-				}
-				militancy = -3
-				consciousness = 1
-			}
-			set_country_flag = tanzimat_reforms_enacted
-		}
-	}
-	
+#----------------------------------------------------------- Признание Болгар -------------------------------------------------------------	
 	kanun_i_esasi = {
+	picture = kanun_i_esasi
 		potential = {
+		
 			tag = TUR
 			NOT = {
 				has_country_flag = kanun_i_esasi_here
@@ -36,16 +11,100 @@ political_decisions = {
 		}
 		
 		allow = {
-			nationalism_n_imperialism = 1
+			prestige = 25
+			ideological_thought = 1
 		}
 		
 		effect = {
 			any_pop = {
-				militancy = -3
-				consciousness = 2
-			}
-			prestige = 5
+				consciousness = 3
+				literacy = 0.03
+				}
+			prestige = 20
+			TUR_809 = {	
+					life_rating = 3}
+			add_accepted_culture = bulgarian
 			set_country_flag = kanun_i_esasi_here
+		}
+		
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					average_militancy = 1
+				}
+			}
+		}
+	}
+#----------------------------------------------------------- Признание Албанцев -------------------------------------------------------------	
+	tanzimat_reforms = {
+	picture = tanzimat_reforms
+		potential = {
+			
+			tag = TUR
+			NOT = {
+				has_country_flag = tanzimat_reforms_enacted
+			}
+		}
+		
+		allow = {
+			prestige = 50
+			#exists = MON
+			#NOT = {
+			#}
+			functionalism = 1
+		}
+		
+		effect = {
+			any_pop = {
+				militancy = 2
+				literacy = 0.03
+				}
+			prestige = 20
+			TUR_853 = {	
+					life_rating = 3}
+			add_accepted_culture = albanian
+			set_country_flag = tanzimat_reforms_enacted
+		}
+	}
+	
+#----------------------------------------------------------- АННЕКСИРОВАТЬ ГРЕЦИЮ -------------------------------------------------------------	
+	annex_gre = {
+	picture =  reichsland_elsass
+		potential = {
+		
+			tag = TUR
+			 exists = GRE
+		}
+		
+		allow = {
+			OR = {
+	and = {
+		tag = TUR
+        year = 1840
+		 
+		GRE = {
+				in_sphere = THIS
+		}
+	}
+	and = {
+ 		tag = TUR
+ 		year = 1845
+		GRE = {
+			 vassal_of = TUR
+		}
+	}
+	} 
+		}
+		
+		effect = {
+		inherit	= GRE
+		add_accepted_culture = greek
+		#add_accepted_culture = bulgarian
+		prestige = 15
+		badboy = 5
 		}
 		
 		ai_will_do = {
@@ -59,78 +118,192 @@ political_decisions = {
 		}
 	}
 	
-	form_israel = {
+#----------------------------------------------------------- АП ДП И ФАБРИК -------------------------------------------------------------	
+	tur_war_corp = {
+		picture = expand_motala_verkstad
 		potential = {
-			civilized = yes
+		
+			tag = TUR
 			NOT = {
-				has_global_flag = israel_has_her_cores
+				has_country_flag = tur_war_corp_1
 			}
-			916 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+		}
+		
+		allow = {
+			mechanical_production = 1
+			money = 100000
+		}
+		
+		effect = {
+			TUR_869 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
 				}
 			}
-			917 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+			TUR_863 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
 				}
 			}
-			918 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+			prestige = 5
+			money = -100000
+			set_country_flag = tur_war_corp_1
+		}
+	}
+#----------------------------------------------------------- АП ДП И ФАБРИК 2 -------------------------------------------------------------	
+	tur_war_corp_sec = {
+		picture = expand_motala_verkstad
+		potential = {
+		
+			tag = TUR
+
+			has_country_flag = tur_war_corp_1
+			NOT = {
+				has_country_flag = tur_war_corp_2
+			}
+		}
+		
+		allow = {
+			semi_automatization = 1
+			money = 200000
+			prestige = 300
+			year = 1850
+		}
+		
+		effect = {
+			TUR_876 = {
+				add_province_modifier = {
+					name = tur_war_industry
+					duration = -1
 				}
 			}
-			919 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+			prestige = 5
+			money = -200000
+			set_country_flag = tur_war_corp_2
+		}
+	}
+#----------------------------------------------------------- АП ДП И ФАБРИК 3 -------------------------------------------------------------	
+	tur_war_corp_end = {
+		picture = expand_motala_verkstad
+		potential = {
+		
+			tag = TUR
+
+			has_country_flag = tur_war_corp_2
+			NOT = {
+				has_country_flag = tur_war_corp_3
+			}
+		}
+		
+		allow = {
+			assembly_line = 1
+			money = 500000
+			prestige = 400
+			year = 1870
+		}
+		
+		effect = {
+			add_country_modifier = {
+					name = tur_war_industry_all
+					duration = -1
+			}
+			prestige = 5
+			money = -500000
+			set_country_flag = tur_war_corp_3
+		}
+	}
+#--------------------------- Агро развитие Ближнего Востока --------------------------	
+	tur_agro_corp = {
+		picture = restore_alsace
+		potential = {
+		
+			tag = TUR
+			NOT = {
+				has_country_flag = tur_agro_corp_1
+			}
+		}
+		
+		allow = {
+			high_n_low_pressure_steam_engines = 1
+			money = 500000
+		}
+		
+		effect = {
+			TUR_931 = {
+				add_province_modifier = {
+					name = dve_reki
+					duration = 1825
 				}
 			}
-			920 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+			TUR_935 = {
+				add_province_modifier = {
+					name = dve_reki
+					duration = 1825
 				}
 			}
-			921 = {
-				OR = {
-					owned_by = THIS
-					owner = {
-						in_sphere = THIS
-					}
+			TUR_923 = {
+			add_province_modifier = {
+					name = dve_reki
+					duration = 1825
 				}
+			}
+			max_tax = 0.05
+			prestige = 5
+			money = -500000
+			set_country_flag = tur_agro_corp_1
+		}
+	}
+----------------------------Гена_Цидармян-----------------------------
+	gena_cidarmyan = {
+	picture = restore_alsace
+	potential = {
+	tag = TUR
+			NOT = {
+				has_country_flag = gena_cidarmyan
 			}
 		}
 		allow = {
-			is_greater_power = yes
-			revolution_n_counterrevolution = 1
+			nationalism_n_imperialism = 1
+		tag = TUR
+            NOT = { owns = 802}
 		}
 		effect = {
-			EGY_921 = { add_core = ISR }
-			prestige = 10
-			set_global_flag = israel_has_her_cores
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					tag = ENG
+			TUR_889 = {
+				add_province_modifier = {
+					name = gena_cidarmyan
+					duration = 365
 				}
 			}
+			prestige = -50
+			set_country_flag = gena_cidarmyan
+		}
+	}
+----------------------------Гена_Цидармян2-----------------------------
+	gena_cidarmyan2 = {
+	picture = restore_alsace
+	potential = {
+	tag = TUR
+			has_country_flag = gena_cidarmyan
+			NOT = {
+				has_country_flag = gena_cidarmyan2
+			}
+		}
+		allow = {
+			money = 2000000
+		}
+		effect = {
+			TUR_889 = {
+				add_province_modifier = {
+					name = gena_cidarmyan2
+					duration = 1825
+				}
+			}
+			prestige = 20
+			set_country_flag = gena_cidarmyan2
 		}
 	}
 }
+
+
