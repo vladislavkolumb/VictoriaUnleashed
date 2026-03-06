@@ -269,7 +269,7 @@
 	farmers = {
 		culture = african_minor
 		religion = protestant
-		size = 6625
+		size = 150025
 	}
 
 	clergymen = {
@@ -527,7 +527,7 @@
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 775
+		size = 51000
 	}
 
 	clergymen = {
@@ -1109,7 +1109,7 @@
 	farmers = {
 		culture = boer
 		religion = protestant
-		size = 600
+		size = 60000
 	}
 
 	aristocrats = {
@@ -1121,7 +1121,7 @@
 	clergymen = {
 		culture = african_minor
 		religion = animist
-		size = 475
+		size = 4750
 	}
 
 	artisans = {
@@ -1133,13 +1133,13 @@
 	soldiers = {
 		culture = african_minor
 		religion = animist
-		size = 475
+		size = 4750
 	}
 
 	farmers = {
 		culture = african_minor
 		religion = animist
-		size = 43500
+		size = 90500
 	}
 }
 #Winburg (102000/25500 POPS)
@@ -1396,7 +1396,7 @@
 	farmers = {
 		culture = african_minor
 		religion = animist
-		size = 31300
+		size = 200300
 	}
 }
 #Johannesburg (102400/25600 POPS)

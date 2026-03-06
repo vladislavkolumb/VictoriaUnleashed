@@ -79,7 +79,7 @@ machine_part_user_template = {
 		{ 
 			poptype = craftsmen
 			effect = throughput
-			amount = 0.8
+			amount = 3
 		}		
 		{ 
 			poptype = clerks 
@@ -110,7 +110,7 @@ cement_template = {
 		{ 
 			poptype = craftsmen
 			effect = throughput
-			amount = 0.8
+			amount = 1.5
 		}		
 		{ 
 			poptype = clerks 

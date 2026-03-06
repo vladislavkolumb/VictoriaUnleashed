@@ -3,4 +3,5 @@ controller = ENG
 add_core = BUR
 trade_goods = fish
 life_rating = 30
+naval_base = 2
 colonial = 2

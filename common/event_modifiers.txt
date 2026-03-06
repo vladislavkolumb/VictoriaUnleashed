@@ -640,7 +640,7 @@ corn_laws_repealed = {
 }
 
 the_yard = {
-	tax_efficiency = 0.01
+	tax_efficiency = 0.05
 	icon = 1
 }
 
@@ -780,6 +780,11 @@ british_strike_crisis = {
 irish_famine = {
     farm_rgo_size = -0.35
     immigrant_push = 0.5
+}
+
+irish_reconstruction = {
+    population_growth = 0.001
+	immigrant_push = 0.5
 }
 #-------------------------------------------------------ТУРЦИЯ-------------------------------------------------------
 investiments_yes = {

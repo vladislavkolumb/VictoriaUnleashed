@@ -3,4 +3,5 @@ controller = ENG
 add_core = SAF
 trade_goods = wool
 life_rating = 35
+naval_base = 2
 colonial = 2

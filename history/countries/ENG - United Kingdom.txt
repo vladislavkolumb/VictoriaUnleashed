@@ -3,13 +3,13 @@ primary_culture = british
 culture = anglo_canadian
 religion = protestant
 government = hms_government
-plurality = 30
+plurality = 50
 nationalvalue = nv_order
-literacy = 0.55
+literacy = 0.60
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 100
+prestige = 250
 
 
 # Political reforms
@@ -63,10 +63,6 @@ mechanical_production = 1
 clean_coal = 1
 battleship_column_doctrine = 1
 naval_professionalism = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-late_classical_theory = 1
-market_structure = 1
 
 # Inventions
 #corvettes = yes
@@ -182,12 +178,9 @@ school_reforms = low_schools
 	stock_exchange = 1
 	business_banks = 1
 	no_standard = 1
-	ad_hoc_money_bill_printing = 1
 	private_bank_money_bill_printing = 1
 	early_classical_theory_and_critique = 1
-	late_classical_theory = 1
 	freedom_of_trade = 1
-	market_structure = 1
 	business_regulations = 1
 	guild_based_production = 1
 	organized_factories = 1

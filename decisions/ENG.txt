@@ -236,6 +236,42 @@ political_decisions = {
 			prestige = 40
 			money = -2000000
 			clr_country_flag = irish_famine
+			set_country_flag = irish_famine_end
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	irish_reconstruction = {
+		potential = { 
+			tag = ENG
+			has_country_flag = irish_famine_end
+			accepted_culture = irish
+			NOT = {
+				has_country_flag = irish_reconstruction1
+			}
+		}
+	
+		allow = {
+			has_country_flag = irish_famine_end
+			inorganic_chemistry = 1
+			
+		}
+	
+		effect = {
+			ENG_263 = {
+				add_province_modifier = { name = irish_reconstruction duration = 1825 }
+			}
+			ENG_254 = {
+				add_province_modifier = { name = irish_reconstruction duration = 1825 }
+			}
+			ENG_260 = {
+				add_province_modifier = { name = irish_reconstruction duration = 1825 }
+			}
+			prestige = 15
+			set_country_flag = irish_reconstruction1
 		}
 	
 		ai_will_do = {

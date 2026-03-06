@@ -77,7 +77,7 @@
 	farmers = {
 		culture = african_minor
 		religion = sunni
-		size = 42025
+		size = 190025
 	}
 
 	aristocrats = {

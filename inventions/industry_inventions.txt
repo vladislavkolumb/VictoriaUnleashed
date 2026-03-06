@@ -913,7 +913,7 @@ combat_medicine = {
 aerial_bacteria_and_antiseptic_principle = {
 	limit = { medicine = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			colonial_nation = yes
@@ -967,7 +967,7 @@ chemotherapy = {
 genetics:_heredity = {
 	limit = { medicine = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			inorganic_chemistry = 1
@@ -984,7 +984,7 @@ genetics:_heredity = {
 clinical_thermometers_and_binaural_stethoscopes = {
 	limit = { medicine = 1 }
 	chance = {
-		base = 2
+		base = 100
 		modifier = {
 			factor = 2
 			inorganic_chemistry = 1
