@@ -278,4 +278,30 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+	english_region_select = {
+		potential = { 
+			tag = ENG
+			NOT = {
+				has_country_flag = british_region_select1
+			}
+		}
+	
+		allow = {
+			early_railroad = 1
+			cheap_iron = 1
+			money = 2000000
+		}
+	
+		effect = {
+			set_country_flag = british_region_select1
+			money = -2000000
+			country_event = 36945
+			
+		}
+	
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

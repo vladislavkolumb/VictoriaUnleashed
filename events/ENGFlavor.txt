@@ -35,7 +35,7 @@ country_event = {
 			who = HAN
 			value = -200
 		}
-		prestige = 5
+		prestige = 25
 	}
 }
 
@@ -1850,5 +1850,64 @@ country_event = {
 			set_country_flag = irish_famine
 		}
 
+	}
+}
+
+country_event = {
+	id = 36945
+	picture = region_select_eng
+	is_triggered_only = yes
+	title = "EVTNAMEId36945"
+	desc = "EVTDESCId36945"
+	
+	trigger = {
+		tag = ENG
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+		
+	}
+	option = {
+		name = "EVTOPTAId36945"
+		ENG_300 = {
+			add_province_modifier = {
+				name = british_region_select
+				duration = 18250	
+			}
+			
+		}
+	}
+	
+	option = {
+		name = "EVTOPTBId36945"
+		ENG_284 = {
+			add_province_modifier = {
+				name = british_region_select
+				duration = 18250	
+			}
+			
+		}
+	}
+	
+	option = {
+		name = "EVTOPTCId36945"
+		ENG_296 = {
+			add_province_modifier = {
+				name = british_region_select
+				duration = 18250	
+			}
+			
+		}
+	}
+	option = {
+		name = "EVTOPTDId36945"
+		ENG_263 = {
+			add_province_modifier = {
+				name = british_region_select
+				duration = 18250	
+			}
+			
+		}
 	}
 }

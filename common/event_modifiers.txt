@@ -786,6 +786,12 @@ irish_reconstruction = {
     population_growth = 0.001
 	immigrant_push = 0.5
 }
+
+british_region_select = {
+	immigrant_push = 0.3
+	local_factory_output = 0.4
+	local_factory_throughput = 0.2
+}
 #-------------------------------------------------------ТУРЦИЯ-------------------------------------------------------
 investiments_yes = {
 	icon = 13
